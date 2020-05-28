@@ -1,0 +1,7 @@
+Java8的Stream基本上都是使用util.function包下的函数式接口来实现函数式编程的
+
+Function消费者功能接口
+Operator功能功能接口
+Consumer操作员操作接口
+Predicate谓词断言接口
+Supplier供应商生产接口
