@@ -2,7 +2,7 @@ package com.lb.generic;
 
 
 /**
- * 泛型方法
+ * 泛型方法的基本使用
  *
  * @author lubin
  * @since 1.0
